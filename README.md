@@ -29,5 +29,6 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nick-Mai&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicky11201&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nicky11201&theme=tokyonight)](https://git.io/streak-stats)
+
 
